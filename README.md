@@ -7,6 +7,7 @@ This Java Swing application visualizes the sorting process of 8 different sortin
 # Visuals
 <p align="center"><img src="https://github.com/Jinnboi/SortingAlgorithmVisualizer/assets/111414156/77d38ab5-1aab-4887-be67-c6d55d50d17e" width="600" height="425"></p>
 
+### Ex: Merge Sort
 <p align="center"><img src="https://github.com/Jinnboi/SortingAlgorithmVisualizer/assets/111414156/7dda770e-7781-40e3-8fe8-288ffae436f7" width="600" height="425"></p>
 
 # Usage
